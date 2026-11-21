@@ -95,4 +95,8 @@ Run the notebook cells from top to bottom. The cleaned file and charts are saved
 ## Tools Used
  
 Python, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook
- 
+
+##  My Info
+
+**Name:** Saksham Bansal
+**Admission No:** 2026B01011122
